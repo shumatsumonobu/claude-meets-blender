@@ -1,0 +1,16 @@
+# Blender
+*.blend1
+*.blend2
+*.blend.bak
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Editor
+.vscode/
+.idea/
+
+# Local
+*.log
+.env
