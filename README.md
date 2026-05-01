@@ -2,7 +2,7 @@
 
 Anthropic が 2026-04-28 に発表した [Claude for Creative Work](https://www.anthropic.com/news/claude-for-creative-work) の Blender connector を実際に試した記録
 
-**Claude Free でも使える**ので追加コストゼロ。3D 触ったことない人間が、自然言語だけで Blender をどこまで動かせるかの実験
+**Claude の無料プランでも動いた**ので追加コストゼロ。3D 触ったことない人間が、自然言語だけで Blender をどこまで動かせるかの実験
 
 ## 結果：自作キャラの 3D 化
 
